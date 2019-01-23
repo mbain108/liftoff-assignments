@@ -8,10 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-Signin Page: https://wireframe.cc/AF04DA
-Dashboard: https://wireframe.cc/KpmMWs
-List All Patients: https://wireframe.cc/QytMUs
+- Signin Page: https://wireframe.cc/AF04DA
+- Dashboard: https://wireframe.cc/KpmMWs
+- List All Patients: https://wireframe.cc/QytMUs
 
 ### Project Tracker
 
