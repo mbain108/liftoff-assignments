@@ -17,8 +17,10 @@ I am proposing that you do away with the paper trail! You can now have a central
 4. Data Visualization: Users will be able to create various reports based on user query definitions. For example, a user can create an aggregated report of patients based on species (553 common murres, 174 striped skunks, etc).
 ### Technologies
 - Java
+- Springboot
+- Thymeleaf
 - MySQL
 - Bootstrap
-- Thymeleaf
+
 ### What I'll Have to Learn
 Data visualization: I need to identify what type of technique (?javascript?) to use in order to provide interactive and real-time charts. 
