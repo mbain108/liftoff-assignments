@@ -7,12 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/mbain108
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/mbain108
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
+http://www.melissadbain.com/wp-content/uploads/2019/01/melissa-bain-resume-2018.pdf
